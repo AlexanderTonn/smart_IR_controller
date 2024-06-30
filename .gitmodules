@@ -1,0 +1,12 @@
+[submodule "ArduinoIoTCloud"]
+	path = ArduinoIoTCloud
+	url = https://github.com/arduino-libraries/ArduinoIoTCloud.git
+[submodule "lib/ArduinoIoTCloud"]
+	path = lib/ArduinoIoTCloud
+	url = https://github.com/arduino-libraries/ArduinoIoTCloud.git
+[submodule "lib/Arduino_ConnectionHandler"]
+	path = lib/Arduino_ConnectionHandler
+	url = https://github.com/arduino-libraries/Arduino_ConnectionHandler.git
+[submodule "lib/Array"]
+	path = lib/Array
+	url = https://github.com/AlexanderTonn/Array.git
